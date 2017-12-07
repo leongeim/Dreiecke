@@ -1,3 +1,9 @@
+/*
+Leon Geim
+
+Problem: Dreiecke nebeneinander darstellen (Leerzeichen auffüllung)
+*/
+
 #include <stdio.h>
 
 void main()
